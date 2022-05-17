@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 _________________________________________________________________________________________________________________________________________________________________________
 
  **👨‍🎓 About Me**
+ 🌎 From Israel
  ________________________________________________________________________________________________________________________________________________________________________
  🖋 **I’m currently studying Software Engineering (B.Sc.) at ORT Braude College and works as Embedded Software Engineer intern at 'Rafael Armament Development'**
- 🌎 Israel
  
  📫 How to reach me: eliavshabat1110@gmail.com
  
