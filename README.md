@@ -33,7 +33,7 @@ ________________________________________________________________________________
 --->
 
 _________________________________________________________________________________________________________________________________________________________________________
-[![LinkedIn](https://user-images.githubusercontent.com/88554020/159462687-4280e286-c1ca-43f9-ab61-a2d82913d9c5.png )](https://www.linkedin.com/in/omri-cohen1)
+[![LinkedIn](https://user-images.githubusercontent.com/88554020/159462687-4280e286-c1ca-43f9-ab61-a2d82913d9c5.png )](https://www.linkedin.com/in/eliavshabat/)
 <a href="mailto:eliavshabat1110@gmail.com" title="Eliav's email"> <img src="https://user-images.githubusercontent.com/66797449/153720504-ec684a6f-baff-4e07-9b4e-62eae7dfd358.png"/></a>
 
 
