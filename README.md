@@ -11,8 +11,8 @@ ________________________________________________________________________________
 
  **👨‍🎓 About Me**
  ________________________________________________________________________________________________________________________________________________________________________
- 🖋 **I’m currently studying Software Engineering (B.Sc.) at ORT Braude College and works as software embededd intern at 'Rafael Armament Development'**
- 🌎 I'm from Kiryat motzkin, Israel
+ 🖋 **I’m currently studying Software Engineering (B.Sc.) at ORT Braude College and works as Embedded Software Engineer intern at 'Rafael Armament Development'**
+ 🌎 Israel
  
  📫 How to reach me: eliavshabat1110@gmail.com
  
