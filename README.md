@@ -6,16 +6,9 @@
 EliavShbt/EliavShbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Hi 👋, I’m Eliav Shabat**
+**Hi 👋**
 _________________________________________________________________________________________________________________________________________________________________________
-
- **👨‍🎓 About Me**
- 
- 🌎 From Israel
- ________________________________________________________________________________________________________________________________________________________________________
- 🖋 **I’m currently studying Software Engineering (B.Sc.) at ORT Braude College and works as Embedded Software Engineer**
- 
- 📫 How to reach me: eliavshabat1110@gmail.com
+ 🖋 **Software Engineering (B.Sc.) works as Embedded Software Engineer**
  
  <!---
  💻 My Most recent project: 
